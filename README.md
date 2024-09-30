@@ -4,10 +4,10 @@
 
 https://drive.google.com/drive/u/0/folders/1kKKq_xX-5rlTcns7V-omCyqVt3bULQqe (right click on first file and click download to download)
 
-★ V1.0 ★
+★ V1.1 ★
 
-✹ tabi ✹ (recharted)
+✹ whitty ✹ (port to psych engine)
 
- ✵ aflac ✵ (remastered)
+ ✵ dave and bambi ✵ 
  
-  ♠︎ camellia ♠︎ (v2.5)
+
